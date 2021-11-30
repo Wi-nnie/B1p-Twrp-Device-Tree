@@ -19,7 +19,7 @@ $(call inherit-product, vendor/omni/config/gsm.mk)
 
 # Device identifier. This must come after all inclusions
 PRODUCT_DEVICE := TECNO-B1p
-PRODUCT_NAME := omni_TECNO-B1p
+PRODUCT_NAME := omni_B1p
 PRODUCT_BRAND := TECNO
 PRODUCT_MODEL := TECNO B1p
 PRODUCT_MANUFACTURER := tecno
