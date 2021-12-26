@@ -1,8 +1,8 @@
 # mount point       fstype    device                                                                flags
 /system              ext4     /dev/block/platform/mtk-msdc.0/11120000.msdc0/by-name/system       flags=display="System";backup=1
-/system_image        emmc     /dev/block/platform/mtk-msdc.0/11120000.msdc0/by-name/system       flashimg=1
+/system              emmc     /dev/block/platform/mtk-msdc.0/11120000.msdc0/by-name/system       flashimg=1
 /vendor              ext4     /dev/block/platform/mtk-msdc.0/11120000.msdc0/by-name/vendor       flags=display="Vendor";backup=1
-/vendor_image        emmc     /dev/block/platform/mtk-msdc.0/11120000.msdc0/by-name/vendor       flashimg=1
+/vendor              emmc     /dev/block/platform/mtk-msdc.0/11120000.msdc0/by-name/vendor       flashimg=1
 /data                f2fs     /dev/block/platform/mtk-msdc.0/11120000.msdc0/by-name/userdata     flags=display="Data"
 /cache               ext4     /dev/block/platform/mtk-msdc.0/11120000.msdc0/by-name/cache        flags=display="Cache"
 /protect_f           ext4     /dev/block/platform/mtk-msdc.0/11120000.msdc0/by-name/protect1     flags=display="Protect_f"
