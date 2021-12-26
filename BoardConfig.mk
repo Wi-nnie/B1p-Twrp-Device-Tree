@@ -68,3 +68,4 @@ TW_EXCLUDE_BASH := true
 PB_TORCH_PATH := /sys/devices/virtual/torch/torch/torch_level
 PB_TORCH_MAX_BRIGHTNESS := 1
 TW_NO_SCREEN_BLANK := true
+TW_NO_SCREEN_TIMEOUT := false
