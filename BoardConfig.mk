@@ -65,3 +65,4 @@ TW_INPUT_BLACKLIST := "hbtp_vm"
 TW_USE_TOOLBOX := true
 TW_EXCLUDE_NANO := true
 TW_EXCLUDE_BASH := true
+PB_TORCH_PATH := "/sys/class/flashlight"
